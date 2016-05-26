@@ -1,0 +1,14 @@
+{
+  "name": "cdps",
+  "version": "0.0.0",
+  "description": "datas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cdp",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "jscs": "~3.0.3"
+  }
+}
